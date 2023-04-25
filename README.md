@@ -7,8 +7,8 @@ This project includes simple codes for extracting and displaying the landmark fe
 * pip install numpy
 * pip install opencv-python
 # Use
-face.py : For Extract and display face landmarks and mesh
-hand.py : For Extract and display hands landmarks
-main.py : for Extract and display face and hands landmarks and mesh 
+* face.py : For Extract and display face landmarks and mesh
+* hand.py : For Extract and display hands landmarks
+* main.py : for Extract and display face and hands landmarks and mesh 
 
 
