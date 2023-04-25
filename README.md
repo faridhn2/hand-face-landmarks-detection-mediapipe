@@ -3,9 +3,9 @@ This project includes simple codes for extracting and displaying the landmark fe
 # Simple test video
 ![](face_hand.gif)
 # Installation
->> pip install mediapipe
->> pip install numpy
->> pip install opencv-python
+* pip install mediapipe
+* pip install numpy
+* pip install opencv-python
 # Use
 face.py : For Extract and display face landmarks and mesh
 hand.py : For Extract and display hands landmarks
